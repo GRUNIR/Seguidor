@@ -1,0 +1,13 @@
+Sensor Direita está conectado no Analógico 1
+Sensor Esquerda está conectado no Analógico 0
+
+
+Motor Direita está conectado no digital 5
+Motor Esquerda está conectado no digital 6
+
+
+Intervalo de cores:
+
+Preto > 200
+Verde > 85
+Branco < 85
